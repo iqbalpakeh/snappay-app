@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/empty_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_empty_black_56dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elevation="4dp"
+        android:fontFamily="sans-serif-medium"
+        android:paddingTop="16dp"
+        android:text="No transaction yet..."
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elevation="4dp"
+        android:fontFamily="sans-serif"
+        android:paddingTop="4dp"
+        android:text="Pay by NFC or QRCode"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColor="#A2AAB0" />
+
+</LinearLayout>

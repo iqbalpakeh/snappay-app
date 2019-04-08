@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782828849795",
+    "firebase_url": "https://snappaymerchant.firebaseio.com",
+    "project_id": "snappaymerchant",
+    "storage_bucket": "snappaymerchant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782828849795:android:80e77b3e4464495f",
+        "android_client_info": {
+          "package_name": "com.payment.snappaymerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782828849795-eqnhmqjjnhh2l5ka071pbhi89cdl211i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payment.snappaymerchant",
+            "certificate_hash": "cc65e4b2ebd50ec3aa43f962fb40757ffb33c83a"
+          }
+        },
+        {
+          "client_id": "782828849795-405gfphg4jgc0flo6s75mu774uhu3cmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVHGT9Zq_nOUYRlPq4O9-pO-o1FZ8Hwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782828849795-405gfphg4jgc0flo6s75mu774uhu3cmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
