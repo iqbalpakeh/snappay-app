@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_qrc"
+        android:icon="@drawable/ic_qrc_black_24dp"
+        android:title="QRC" />
+
+    <item
+        android:id="@+id/navigation_nfc"
+        android:icon="@drawable/ic_nfc_black_24dp"
+        android:title="NFC" />
+
+
+    <!--NOTE: hide HCE payment method temporarily-->
+    <!--<item-->
+        <!--android:id="@+id/navigation_hce"-->
+        <!--android:icon="@drawable/ic_tap_and_play_black_24dp"-->
+        <!--android:title="HCE" />-->
+
+</menu>
